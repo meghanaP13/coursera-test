@@ -8,6 +8,6 @@ helloSpeaker.speak=function (name) {
 }
 window.helloSpeaker=helloSpeaker;
 
-})();
+})(window);
 
 
